@@ -1,4 +1,5 @@
 ## System Requirements
+
 Any library member should be able to search books by their title, author, subject category as well by the publication date.
 
 Each book will have a unique identification number and other details including a rack number which will help to physically locate the book.
@@ -67,6 +68,5 @@ Rack: Books will be placed on racks. Each rack will be identified by a rack numb
 
 Notification: This class will take care of sending notifications to library members.
 
-![](Images/Use%20case%20diag_Lib_mgmt.png)
-
+![](Images/Class_diagram_lib_mgmt.png)
 
